@@ -1,0 +1,31 @@
+# Core
+pandas>=2.0.0
+python-dotenv>=1.0.0
+
+# LangChain (pinned to the pre-1.0 line: this project uses
+# create_tool_calling_agent + AgentExecutor, which were removed/replaced
+# in langchain 1.0's langgraph-based agent API)
+langchain>=0.3,<0.4
+langchain-core>=0.3,<0.4
+langchain-community>=0.3,<0.4
+
+# LLM providers -- default is Groq (free API key, no credit card required).
+langchain-groq==0.3.8
+# Other free, no-card options (pick what you use, or leave installed for flexibility):
+langchain-google-genai==2.1.12   # LLM_PROVIDER=gemini  -- free key, no card
+langchain-ollama==0.3.10         # LLM_PROVIDER=ollama  -- fully local, no signup at all
+# Paid/card-required providers (optional, only if you have these keys already):
+# langchain-anthropic>=0.3,<0.4  # LLM_PROVIDER=anthropic
+# langchain-openai>=0.2,<0.3     # LLM_PROVIDER=openai
+
+# Web search -- DuckDuckGo needs no API key or account at all (default).
+duckduckgo-search>=5.3.0
+# Optional upgrade (free tier, no card, but requires a Tavily account):
+# tavily-python>=0.3.3
+
+# Dataset download (scripts/download_datasets.py)
+huggingface_hub>=0.23.0
+pyarrow>=15.0.0
+fsspec>=2024.3.0
+# Fallback path if hf:// parquet read fails:
+datasets>=2.19.0

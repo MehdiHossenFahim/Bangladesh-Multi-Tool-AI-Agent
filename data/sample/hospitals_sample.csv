@@ -1,0 +1,23 @@
+Id,Name,Name_Bangla,Code,Agency,Type,Division,District,City_Corporation,Upazila,Paurasava,Union,Private
+1,Dhaka Divisional Health Office,পরিচালক (স্বাস্থ্য) এর কার্যালয়ঢাকা বিভাগঢাকা,10000001,DGHS,Divisional Level Office,Dhaka,Dhaka,Dhaka South City Corporation,Motijheel,,,0
+2,Directorate General of Health Services (DGHS),স্বাস্থ্য অধিদপ্তরমহাখালী,10000002,DGHS,Directorate General or Directorate,Dhaka,Dhaka,Dhaka North City Corperation,Banani,,,0
+3,Institute of Epidemiology Disease Control & Research (IEDCR),রোগতত্ব রোগ নিয়ন্ত্রন ও গবেষণা ইনষ্টিটিউট,10000003,DGHS,Public Health Institution,Dhaka,Dhaka,Dhaka North City Corperation,Banani,,,0
+30,Dhaka Medical College,ঢাকা মেডিকেল কলেজ,10000032,DGHS,Medical College,Dhaka,Dhaka,Dhaka South City Corporation,Shahbag,,,0
+31,Dhaka Medical College Hospital,ঢাকা মেডিকেল কলেজ হাসপাতাল,10000033,DGHS,Medical College Hospital,Dhaka,Dhaka,Dhaka South City Corporation,Shahbag,,,0
+46,Shaheed Suhrawardy Medical College,শহীদ সোহরাওয়ার্দী মেডিকেল কলেজ,10000050,DGHS,Medical College,Dhaka,Dhaka,,,,,0
+47,Shaheed Suhrawardy Medical College Hospital,শহীদ সোহরাওয়ার্দী মেডিকেল কলেজ হাসপাতাল,10000051,DGHS,Medical College Hospital,Dhaka,Dhaka,Dhaka South City Corporation,Sher-e-bangla Nagar,,,0
+6,National Institute Of Cancer Research And Hospital (NICR&H),জাতীয় ক্যান্সার গবেষণা ইনস্টিটিউট ও হাসপাতাল,10000006,DGHS,Postgraduate Institute & Hospital,Dhaka,Dhaka,Dhaka North City Corperation,Banani,,,0
+7,National Institute Of Cardiovascular Disease (NICVD),জাতীয় হৃদরোগ ইনস্টিটিউট,10000007,DGHS,Postgraduate Institute & Hospital,Dhaka,Dhaka,Dhaka South City Corporation,Sher-e-bangla Nagar,,,0
+10,National Institute Of Mental Health (NIMH),ন্যাশনাল ইনসস্টিউট অব মেণ্টাল হেলথ,10000010,DGHS,Postgraduate Institute & Hospital,Dhaka,Dhaka,Dhaka South City Corporation,Sher-e-bangla Nagar,,,0
+21,Chattogram Airport Health Office,চট্টগ্রাম বিমানবন্দর স্বাস্থ্য অফিস,10000022,DGHS,Port Health Office,Chattogram,Chattogram,Chattogram City Corporation,Chittogram Port,,,0
+100,Chittagong Medical College Hospital,চট্টগ্রাম মেডিকেল কলেজ হাসপাতাল,10000200,DGHS,Medical College Hospital,Chattogram,Chattogram,Chattogram City Corporation,Panchlaish,,,0
+101,General Hospital Chattogram,জেনারেল হাসপাতাল চট্টগ্রাম,10000201,DGHS,District Hospital,Chattogram,Chattogram,Chattogram City Corporation,Kotwali,,,0
+110,Rajshahi Medical College Hospital,রাজশাহী মেডিকেল কলেজ হাসপাতাল,10000300,DGHS,Medical College Hospital,Rajshahi,Rajshahi,,Boalia,,,0
+120,Khulna Medical College Hospital,খুলনা মেডিকেল কলেজ হাসপাতাল,10000400,DGHS,Medical College Hospital,Khulna,Khulna,Khulna City Corporation,Sadar,,,0
+130,Sylhet MAG Osmani Medical College Hospital,সিলেট এম এ জি ওসমানী মেডিকেল কলেজ হাসপাতাল,10000500,DGHS,Medical College Hospital,Sylhet,Sylhet,Sylhet City Corporation,Kotwali,,,0
+140,Sher-E-Bangla Medical College Hospital Barisal,শের-ই-বাংলা মেডিকেল কলেজ হাসপাতাল বরিশাল,10000600,DGHS,Medical College Hospital,Barisal,Barisal,Barisal City Corporation,Kotwali,,,0
+150,Evercare Hospital Dhaka,এভারকেয়ার হাসপাতাল ঢাকা,10000700,Private,Private Specialized Hospital,Dhaka,Dhaka,Dhaka North City Corperation,Bashundhara,,,1
+151,Square Hospitals Ltd,স্কয়ার হাসপাতাল লিমিটেড,10000701,Private,Private Specialized Hospital,Dhaka,Dhaka,Dhaka South City Corporation,Panthapath,,,1
+152,United Hospital Limited,ইউনাইটেড হাসপাতাল লিমিটেড,10000702,Private,Private Specialized Hospital,Dhaka,Dhaka,Dhaka North City Corperation,Gulshan,,,1
+70,Keraniganj Upazila Health Complex,কেরানীগঞ্জ উপজেলা স্বাস্থ্য কমপ্লেক্স,10000074,DGHS,Upazila Health Complex,Dhaka,Dhaka,,Keraniganj,,,0
+79,Savar Upazila Health Complex,সাভার উপজেলা স্বাস্থ্য কমপ্লেক্স,10000083,DGHS,Upazila Health Complex,Dhaka,Dhaka,,Savar,,,0
