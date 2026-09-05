@@ -47,7 +47,7 @@ at you.
 
 ```bash
 git clone https://github.com/MehdiHossenFahim/Bangladesh-Multi-Tool-AI-Agent.git
-cd bd-multitool-agent
+cd Bangladesh-Multi-Tool-AI-Agent
 pip install -r requirements.txt
 cp .env.example .env
 ```
